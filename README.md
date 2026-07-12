@@ -12,7 +12,7 @@ Frontend Developer with hands-on experience building responsive, high-performanc
 Building the web, Front to Back.
 
 *   🌍  I'm based in Delhi
-*   ✉️  You can connect me at [https://www.linkedin.com/in/anishvermaishere/] (Anish Verma)
+*   ✉️  You can connect me at [AnishVerma](https://www.linkedin.com/in/anishvermaishere/)
 *   ⚡  I love UI Design, Programming and Development
 
 
